@@ -1,4 +1,4 @@
-# PEP Passed code 
+
 from tkinter import *
 import random
 
