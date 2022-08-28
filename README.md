@@ -4,3 +4,6 @@ This is a continuation to my earlier project of the geography quiz. In this vers
 Program: Geography Quiz (Guess the Capital City)
 Language: Python
 
+
+
+<img width="937" alt="Screen Shot 2022-08-29 at 1 40 45 AM" src="https://user-images.githubusercontent.com/91447773/187077233-67138e46-7bfa-45ed-ab0f-3910d6ed4b4c.png">
